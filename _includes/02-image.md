@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Мы сделаем это](https://octodex.github.com/images/mona-the-rivetertocat.png)
